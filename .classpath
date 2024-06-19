@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/Aplicacion1JavaFX.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/postgresql-9.1-902.jdbc4.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="librerias/postgresql-9.1-902.jdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/javafx-sdk-11/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/javafx-sdk-11/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/javafx-sdk-11/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/javafx-sdk-11/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/javafx-sdk-11/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/javafx-sdk-11/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/javafx-sdk-11/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/javafx-sdk-11/lib/javafx-swt.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
